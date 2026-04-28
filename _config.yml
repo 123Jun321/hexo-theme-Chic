@@ -15,7 +15,7 @@ favicon: /favicon.ico
 nickname: Guan Jun
 
 ### this variable is MarkDown form.
-description: **There will always be stars when you look up.** <br>I'm a technical support and will share everything about my work and life here.<br>Welcome to my world.
+description: *There will always be stars when you look up.* <br>I'm a technical support and will share everything about my work and life here.<br>Welcome to my world.
 avatar: /image/avatar.jpeg
 
 # main menu navigation
